@@ -17,3 +17,4 @@ Data source comes from pulling the data from Twitter's API. The estimate size of
 ## Application
 Live demo of the application can be found here:
 ## Project Organization
+![image](https://user-images.githubusercontent.com/73860366/184559150-ae619f8a-4334-4ebb-975d-e7b59247e2b7.png)
